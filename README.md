@@ -2,6 +2,8 @@
 
 **Projet développé pour le hackathon organisé par APPEL EPI SOUSSE**
 
+🌐 **Demo Live** : [https://l-oracle-de-l-algorithme.vercel.app](https://l-oracle-de-l-algorithme.vercel.app/?w_likes=0.5&w_shares=0.5&w_readTime=0.3&w_similarity=0.5&randomness=0)
+
 ## 📖 Description
 
 **L'Oracle de l'Algorithme** est une plateforme interactive de simulation et de visualisation des algorithmes de recommandation des réseaux sociaux. Ce projet vise à démystifier les mécanismes cachés derrière les fils d'actualité personnalisés et à sensibiliser sur les phénomènes de **bulles de filtrage** et de **biais algorithmiques**.
@@ -146,6 +148,11 @@ src/
 
 ## 🚀 Déploiement
 
+Le projet est déployé sur Vercel et accessible à l'adresse :
+**[https://l-oracle-de-l-algorithme.vercel.app](https://l-oracle-de-l-algorithme.vercel.app/?w_likes=0.5&w_shares=0.5&w_readTime=0.3&w_similarity=0.5&randomness=0)**
+
+### Déployer votre propre instance
+
 ```bash
 # Build de production
 npm run build
@@ -161,4 +168,3 @@ Projet réalisé dans le cadre du hackathon APPEL EPI SOUSSE.
 ## 📄 Licence
 
 Ce projet est à but éducatif et de sensibilisation.
-# L-Oracle-de-l-Algorithme
